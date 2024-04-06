@@ -1,2 +1,3 @@
 # flappy-bird
-Famous flappy bird game made with python and pygame. Reqs: pygame 2. 5. 2+
+Известная игра Flappy Bird, сделанная на python. 
+Чтобы запустить игру, откройте main.py
